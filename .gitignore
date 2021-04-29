@@ -1,3 +1,8 @@
+# Exclude the generated binaries
+bin/*/*
+# But keep the folder structure
+!bin/*/.gitkeep
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
