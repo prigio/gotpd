@@ -23,4 +23,15 @@ Command-line parameters:
 
 ## Building
 
-A makefile is provided
+A makefile is provided.
+
+```bash
+    make all
+    make osx
+    make linux
+```
+
+## Changelog
+
+### 2023-12-13
+Updated from go 1.16 to go 1.21.
